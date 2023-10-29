@@ -1,0 +1,25 @@
+body{
+    background-color: gold;
+}
+
+.tarjeta{
+    background-color: beige;
+    width: 1100px;
+}
+
+h3{
+    color: coral;
+    background-color:rgb(236, 238, 138);
+    width: 1076px;
+    height: auto;
+    padding: 10px;
+    border: 2px solid;
+    margin: 20xp;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    width:250px;
+    height:200px;
+    padding:10px;
+}
